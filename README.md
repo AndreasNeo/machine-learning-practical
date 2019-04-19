@@ -13,3 +13,5 @@ The base code for the course assignment and labs can be found at https://github.
 > * Implemented the gradients, forward and back propagation methods of a convolutional network.
 > * Implemented the max pooling layer.
 > * Explored the context in convolutional networks achieved with Pooling layers, Striding and Dilation.
+
+The repository is shared after granted permission from the course organizers.

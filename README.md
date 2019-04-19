@@ -11,4 +11,5 @@ The base code for the course assignment and labs can be found at https://github.
 
 # Coursework 2 -  Project name Classification of Handwritten Digits using Neural Networks 
 > * Implemented the gradients, forward and back propagation methods of a convolutional network.
+> * Implemented the max pooling layer.
 > * Explored the context in convolutional networks achieved with Pooling layers, Striding and Dilation.

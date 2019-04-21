@@ -9,7 +9,7 @@ Implemented and explored:
 2. Learning rate scheduler for stochastic gradient decent (SGD) and Adam.
 3. Adam with regularization and weight decay.
 
-# Coursework 2 -  Project name Classification of Handwritten Digits using Neural Networks 
+# Coursework 2 - Classification of Handwritten Digits using Neural Networks 
 * Implemented the gradients, forward and back propagation methods of a convolutional network.
 * Implemented the max pooling layer.
 * Explored the context in convolutional networks achieved with Pooling layers, Striding and Dilation.

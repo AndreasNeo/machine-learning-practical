@@ -4,4 +4,4 @@
  * The implementation of max pooling layer is in [mlp/layers.py](https://github.com/AndreasNeokleous/Machine-Learning-Practical/blob/master/coursework_2/mlp/layers.py) 
  in MaxPooling2DLayer class. The tests are in [notebooks/MaxPoolingLayer_tests.ipynb](https://github.com/AndreasNeokleous/Machine-Learning-Practical/blob/master/coursework_2/notebooks/MaxPoolingLayer_tests.ipynb).
  
- * The findings of this coursework are outlined in the [report](https://github.com/AndreasNeokleous/Machine-Learning-Practical/blob/master/coursework_2/report/coursework2.pdf).
+ * ~~The findings of this coursework are outlined in the [report](https://github.com/AndreasNeokleous/Machine-Learning-Practical/blob/master/coursework_2/report/coursework2.pdf).~~

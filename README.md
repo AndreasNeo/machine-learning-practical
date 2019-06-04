@@ -6,7 +6,7 @@ The base code for the course assignment can be found at https://github.com/CSTR-
 # Coursework 1 -  Exploration of RMSProp and Adam Learning Algorithms 
 Implemented and explored:
 * RMSProp and Adam.
-* Learning rate scheduler for stochastic gradient decent (SGD) and Adam.
+* Learning rate scheduler for stochastic gradient descent (SGD) and Adam.
 * Adam with regularization and weight decay.
 
 # Coursework 2 - Classification of Handwritten Digits using Neural Networks 

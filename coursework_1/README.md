@@ -1,5 +1,5 @@
 # Machine-Learning-Practical
-My assignment solution for [Machine Learning Practical](http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11132.htm) course at University of Edinburgh [School of Informatics](http://www.inf.ed.ac.uk).
+My assignment solution for coursework 1 of the [Machine Learning Practical](http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11132.htm) course at University of Edinburgh [School of Informatics](http://www.inf.ed.ac.uk).
 
 The base code for the assignment can be found at https://github.com/CSTR-Edinburgh/mlpractical/tree/mlp2018-9/coursework_1.
 

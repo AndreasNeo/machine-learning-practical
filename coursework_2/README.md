@@ -1,9 +1,8 @@
-# Machine-Learning-Practical
+# Classification of Handwritten Digits using Neural Networks 
 My solution for coursework 2 of the [Machine Learning Practical](http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11132.htm) course at University of Edinburgh [School of Informatics](http://www.inf.ed.ac.uk).
 
 The base code for the assignment can be found at https://github.com/CSTR-Edinburgh/mlpractical/tree/mlp2018-9/coursework_2 .
 
-# Classification of Handwritten Digits using Neural Networks 
 * Implemented the gradients, forward and back propagation methods of a convolutional network.
 * Implemented the max pooling layer.
 * Explored the context in convolutional networks achieved with Pooling layers, Striding and Dilation.

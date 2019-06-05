@@ -1,9 +1,8 @@
-# Machine-Learning-Practical
+# Exploration of RMSProp and Adam Learning Algorithms 
 My assignment solution for coursework 1 of the [Machine Learning Practical](http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11132.htm) course at University of Edinburgh [School of Informatics](http://www.inf.ed.ac.uk).
 
 The base code for the assignment can be found at https://github.com/CSTR-Edinburgh/mlpractical/tree/mlp2018-9/coursework_1.
 
-# Exploration of RMSProp and Adam Learning Algorithms 
 Implemented and explored:
 * RMSProp and Adam.
 * Learning rate scheduler for stochastic gradient descent (SGD) and Adam.
